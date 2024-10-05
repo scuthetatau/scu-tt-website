@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/scu-tt-website/static/css/main.969707fc.css",
-    "main.js": "/scu-tt-website/static/js/main.bff30ae5.js",
+    "main.js": "/scu-tt-website/static/js/main.c3a9108a.js",
     "static/js/453.9cfc43c3.chunk.js": "/scu-tt-website/static/js/453.9cfc43c3.chunk.js",
     "static/media/ThetaClassInitiation.png": "/scu-tt-website/static/media/ThetaClassInitiation.9bdbd5d2d52aeea4a1f4.png",
     "static/media/ChapterPhoto.jpeg": "/scu-tt-website/static/media/ChapterPhoto.0a4e08502a0c80cecd14.jpeg",
@@ -15,11 +15,11 @@
     "static/media/WhiteTT.png": "/scu-tt-website/static/media/WhiteTT.14b26e1c46e80582e4df.png",
     "index.html": "/scu-tt-website/index.html",
     "main.969707fc.css.map": "/scu-tt-website/static/css/main.969707fc.css.map",
-    "main.bff30ae5.js.map": "/scu-tt-website/static/js/main.bff30ae5.js.map",
+    "main.c3a9108a.js.map": "/scu-tt-website/static/js/main.c3a9108a.js.map",
     "453.9cfc43c3.chunk.js.map": "/scu-tt-website/static/js/453.9cfc43c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.969707fc.css",
-    "static/js/main.bff30ae5.js"
+    "static/js/main.c3a9108a.js"
   ]
 }
