@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/scu-tt-website/static/css/main.969707fc.css",
-    "main.js": "/scu-tt-website/static/js/main.720e99e4.js",
-    "static/js/453.9cfc43c3.chunk.js": "/scu-tt-website/static/js/453.9cfc43c3.chunk.js",
-    "static/media/ThetaClassInitiation.png": "/scu-tt-website/static/media/ThetaClassInitiation.9bdbd5d2d52aeea4a1f4.png",
-    "static/media/ChapterPhoto.jpeg": "/scu-tt-website/static/media/ChapterPhoto.0a4e08502a0c80cecd14.jpeg",
-    "static/media/HomePage_Hero.png": "/scu-tt-website/static/media/HomePage_Hero.89d7482067cbae5306e5.png",
-    "static/media/ServiceEvent.JPG": "/scu-tt-website/static/media/ServiceEvent.b615cbdf5e67f9cf248d.JPG",
-    "static/media/BigLittleReveal.JPG": "/scu-tt-website/static/media/BigLittleReveal.2685f2600f43a59ac0d6.JPG",
-    "static/media/CoatArms.png": "/scu-tt-website/static/media/CoatArms.9b161bb16fa37e03b724.png",
-    "static/media/Retreat2024.jpeg": "/scu-tt-website/static/media/Retreat2024.34ecc8dad7435e4ee509.jpeg",
-    "static/media/regent.jpg": "/scu-tt-website/static/media/regent.d9c2f415c3dee415e82a.jpg",
-    "static/media/Bonfire.jpeg": "/scu-tt-website/static/media/Bonfire.f1124e22b7ad92983062.jpeg",
-    "static/media/WhiteTT.png": "/scu-tt-website/static/media/WhiteTT.14b26e1c46e80582e4df.png",
-    "index.html": "/scu-tt-website/index.html",
-    "main.969707fc.css.map": "/scu-tt-website/static/css/main.969707fc.css.map",
-    "main.720e99e4.js.map": "/scu-tt-website/static/js/main.720e99e4.js.map",
-    "453.9cfc43c3.chunk.js.map": "/scu-tt-website/static/js/453.9cfc43c3.chunk.js.map"
+    "main.css": "/static/css/main.217d8ee0.css",
+    "main.js": "/static/js/main.cd72b2ac.js",
+    "static/js/453.9cfc43c3.chunk.js": "/static/js/453.9cfc43c3.chunk.js",
+    "static/media/ThetaClassInitiation.png": "/static/media/ThetaClassInitiation.9bdbd5d2d52aeea4a1f4.png",
+    "static/media/ChapterPhoto.jpeg": "/static/media/ChapterPhoto.0a4e08502a0c80cecd14.jpeg",
+    "static/media/HomePage_Hero.png": "/static/media/HomePage_Hero.89d7482067cbae5306e5.png",
+    "static/media/ServiceEvent.JPG": "/static/media/ServiceEvent.b615cbdf5e67f9cf248d.JPG",
+    "static/media/BigLittleReveal.JPG": "/static/media/BigLittleReveal.2685f2600f43a59ac0d6.JPG",
+    "static/media/CoatArms.png": "/static/media/CoatArms.9b161bb16fa37e03b724.png",
+    "static/media/Retreat2024.jpeg": "/static/media/Retreat2024.34ecc8dad7435e4ee509.jpeg",
+    "static/media/regent.jpg": "/static/media/regent.d9c2f415c3dee415e82a.jpg",
+    "static/media/Bonfire.jpeg": "/static/media/Bonfire.f1124e22b7ad92983062.jpeg",
+    "static/media/WhiteTT.png": "/static/media/WhiteTT.14b26e1c46e80582e4df.png",
+    "index.html": "/index.html",
+    "main.217d8ee0.css.map": "/static/css/main.217d8ee0.css.map",
+    "main.cd72b2ac.js.map": "/static/js/main.cd72b2ac.js.map",
+    "453.9cfc43c3.chunk.js.map": "/static/js/453.9cfc43c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.969707fc.css",
-    "static/js/main.720e99e4.js"
+    "static/css/main.217d8ee0.css",
+    "static/js/main.cd72b2ac.js"
   ]
 }
