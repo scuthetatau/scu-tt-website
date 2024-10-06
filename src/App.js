@@ -1,6 +1,6 @@
 // #file:App.js
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import Home from './components/Home/Home';
 import AboutUs from './components/AboutUs/AboutUs';
 import MeetTheBrothers from './components/MeetTheBrothers/MeetTheBrothers';
@@ -13,18 +13,19 @@ import Admin from './components/Admin/Admin';
 
 function App() {
     return (
-        <Router basename="/scu-tt-website">
+        <Router>
             <div>
-                <Header />
+                <Header/>
                 <Routes>
-                    <Route path="/" element={<Home />} />
-                    <Route path="/about-us" element={<AboutUs />} />
-                    <Route path="/meet-the-brothers" element={<MeetTheBrothers />} />
-                    <Route path="/events" element={<Events />} />
-                    <Route path="/rush" element={<Rush />} />
-                    <Route path="/login" element={<Login />} />
-                    <Route path="/dashboard" element={<Dashboard />} />
-                    <Route path="/admin" element={<Admin />} />
+                    <Route path="/" element={<Home/>}/>
+                    <Route path="/scu-tt-website" element={<Home/>}/>
+                    <Route path="/about-us" element={<AboutUs/>}/>
+                    <Route path="/meet-the-brothers" element={<MeetTheBrothers/>}/>
+                    <Route path="/events" element={<Events/>}/>
+                    <Route path="/rush" element={<Rush/>}/>
+                    <Route path="/login" element={<Login/>}/>
+                    <Route path="/dashboard" element={<Dashboard/>}/>
+                    <Route path="/admin" element={<Admin/>}/>
                 </Routes>
             </div>
             <footer className="footer">

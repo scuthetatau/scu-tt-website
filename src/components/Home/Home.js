@@ -23,12 +23,11 @@ const Home = () => {
                     <h1 className="title">THETA TAU</h1>
                     <h2 className="chapter">Upsilon Epsilon Chapter</h2>
                     <p className="description">Co-Ed Professional Engineering Fraternity</p>
-                    <button
-                        className="rush-btn"
-                        onClick={() => window.location.href = '/rush'}
-                    >
-                        RUSH
-                    </button>
+                    <Link to="/rush" className="rush-btn-link">
+                        <button className="rush-btn">
+                            RUSH
+                        </button>
+                    </Link>
                 </div>
             </div>
 
@@ -106,12 +105,11 @@ const Home = () => {
             <div className="join-section" style={{backgroundImage: `url(${thetaClass})`}}>
                 <div className="join-overlay">
                     <h2 className="join-title">Interested in Joining?</h2>
-                    <button
-                        className="rush-btn"
-                        onClick={() => window.location.href = '/rush'}
-                    >
-                        RUSH
-                    </button>
+                    <Link to="/rush" className="rush-btn-link">
+                        <button className="rush-btn">
+                            RUSH
+                        </button>
+                    </Link>
                 </div>
             </div>
         </>
